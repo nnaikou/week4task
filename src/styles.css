@@ -14,7 +14,6 @@ body {
   padding: 10px;
   border-radius: 6px;
   box-shadow: 5px 10px lightslategray;
-  display: flex;
 
 }
 
@@ -37,13 +36,17 @@ body {
 
 }
 
- @media (max-width: 800px) {
+@media (min-width: 800px) {
   .show-data {
     display: flex
   }
   .show-info {
     padding: 10px;
   }
+
+}
+
+@media (max-width: 800px) {
   .show-info p {
     padding: 10px;
     text-align: center;
@@ -51,5 +54,5 @@ body {
   img {
     margin: auto;
   }
-
 }
+
