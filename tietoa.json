@@ -1,0 +1,586 @@
+[
+    {
+        "score": 0.3880045,
+        "show": {
+            "id": 41820,
+            "url": "https://www.tvmaze.com/shows/41820/speed",
+            "name": "Speed",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 52,
+            "premiered": "2019-04-18",
+            "ended": "2019-04-18",
+            "officialSite": "https://curiositystream.com/series/367/speed",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 41,
+            "network": null,
+            "webChannel": {
+                "id": 188,
+                "name": "CuriosityStream",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/191/479963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/191/479963.jpg"
+            },
+            "summary": "<p>Investigating mankind's insatiable necessity to move faster and further; for pleasure, for work, to explore, to survive.</p>",
+            "updated": 1644526398,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/41820"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1653914"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.34096953,
+        "show": {
+            "id": 49324,
+            "url": "https://www.tvmaze.com/shows/49324/speed",
+            "name": "Speed",
+            "type": "Scripted",
+            "language": "Chinese",
+            "genres": [
+                "Drama",
+                "Romance",
+                "Sports"
+            ],
+            "status": "Ended",
+            "runtime": 45,
+            "averageRuntime": 45,
+            "premiered": "2018-10-09",
+            "ended": "2018-11-15",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 19,
+            "network": {
+                "id": 302,
+                "name": "Dragon TV",
+                "country": {
+                    "name": "China",
+                    "code": "CN",
+                    "timezone": "Asia/Shanghai"
+                },
+                "officialSite": null
+            },
+            "webChannel": {
+                "id": 67,
+                "name": "iQIYI",
+                "country": null,
+                "officialSite": "https://www.iq.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/265/664669.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664669.jpg"
+            },
+            "summary": null,
+            "updated": 1595529821,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/49324"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1906038"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.33890772,
+        "show": {
+            "id": 14152,
+            "url": "https://www.tvmaze.com/shows/14152/speed-racer",
+            "name": "Speed Racer",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Children"
+            ],
+            "status": "Ended",
+            "runtime": 25,
+            "averageRuntime": 25,
+            "premiered": "1967-09-23",
+            "ended": "1968-03-15",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 56,
+            "network": {
+                "id": 72,
+                "name": "Syndication",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 77777,
+                "imdb": "tt0061300"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/48/120810.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/48/120810.jpg"
+            },
+            "summary": "<p><b>Speed Racer</b> is an eighteen year old race car driver, and is one of the youngest in the international racing circuit. Speed is motivated by the disappearance of his older brother to become the greatest driver in the world. Driving the car his father built for him, the Mach 5, He just may have what it takes to become the best. In addition to his masterful driving skills, Speed is a martial artist with a strong sense of justice and frequently finds himself battling terrorists, corrupt racers and criminals who want to win the races and hurt innocent people for their own crooked and twisted reasons.</p>",
+            "updated": 1555466914,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/14152"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/650264"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.3368883,
+        "show": {
+            "id": 62323,
+            "url": "https://www.tvmaze.com/shows/62323/monsieur-spade",
+            "name": "Monsieur Spade",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [],
+            "status": "In Development",
+            "runtime": 60,
+            "averageRuntime": null,
+            "premiered": null,
+            "ended": null,
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 53,
+            "network": {
+                "id": 20,
+                "name": "AMC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": null,
+            "summary": "<p>Clive Owen-led drama which centers around writer Dashiell Hammett's great detective Sam Spade, the protagonist of Hammett's 1930 classic \"The Maltese Falcon\"</p>",
+            "updated": 1654021035,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/62323"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.33195037,
+        "show": {
+            "id": 18342,
+            "url": "https://www.tvmaze.com/shows/18342/speed-buggy",
+            "name": "Speed Buggy",
+            "type": "Animation",
+            "language": "English",
+            "genres": [
+                "Children"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "1973-09-08",
+            "ended": "1973-12-22",
+            "officialSite": null,
+            "schedule": {
+                "time": "11:00",
+                "days": [
+                    "Saturday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 49,
+            "network": {
+                "id": 2,
+                "name": "CBS",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.cbs.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 76891,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/62/155963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/62/155963.jpg"
+            },
+            "summary": "<p>Tinker, Mark and Debbie are three teenagers who drive <i>Speed Buggy</i>, their custom-built talking car. The group travel around the world entering various races, but always seem to get caught up in the nefarious plans of local supervillains.</p>",
+            "updated": 1612744711,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/18342"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/833798"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.3269112,
+        "show": {
+            "id": 62264,
+            "url": "https://www.tvmaze.com/shows/62264/speed-racer",
+            "name": "Speed Racer",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [],
+            "status": "In Development",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": null,
+            "ended": null,
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 45,
+            "network": null,
+            "webChannel": {
+                "id": 310,
+                "name": "Apple TV+",
+                "country": null,
+                "officialSite": "https://tv.apple.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": null,
+            "summary": "<p><b>Speed Racer</b> follows the adventure of auto racer Speed Racer and his souped up car, the Mach 5. His team consists of his father and car builder Pops Racer, his little brother Spritle and his pet chimpanzee Chim-Chim, and Speed's girlfriend Trixie. Speed also frequently crosses paths with the mysterious Racer X.</p>",
+            "updated": 1653555367,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/62264"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.3182996,
+        "show": {
+            "id": 43273,
+            "url": "https://www.tvmaze.com/shows/43273/speed-freaks",
+            "name": "Speed Freaks",
+            "type": "Reality",
+            "language": "English",
+            "genres": [],
+            "status": "To Be Determined",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2019-08-07",
+            "ended": null,
+            "officialSite": null,
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 38,
+            "network": {
+                "id": 310,
+                "name": "ITV4",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/207/519335.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/207/519335.jpg"
+            },
+            "summary": "<p><b>Speed Freaks</b> follows speed racer and entrepreneur Zef Eisenberg as he scours the nation to meet fellow ‘Speed Freaks' and glean essential engineering know-how from their 'franken machines'. <br /><br />Inspired by this, Zef challenges his own MADMAX Race Team of mechanics to take a different vehicle each week and turn it in to the fastest machine of its kind.</p>",
+            "updated": 1591734969,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/43273"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1714488"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.317096,
+        "show": {
+            "id": 18485,
+            "url": "https://www.tvmaze.com/shows/18485/speed-grapher",
+            "name": "Speed Grapher",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [
+                "Drama",
+                "Action",
+                "Anime",
+                "Crime"
+            ],
+            "status": "Ended",
+            "runtime": 25,
+            "averageRuntime": 25,
+            "premiered": "2005-04-07",
+            "ended": "2005-09-29",
+            "officialSite": null,
+            "schedule": {
+                "time": "00:15",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 37,
+            "network": {
+                "id": 263,
+                "name": "TV Asahi",
+                "country": {
+                    "name": "Japan",
+                    "code": "JP",
+                    "timezone": "Asia/Tokyo"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 78972,
+                "imdb": "tt0805960"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/63/157796.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/63/157796.jpg"
+            },
+            "summary": "<p>It's been over a decade since the Bubble War, when the global economy burst. The rich got richer, and the poor were out of luck. Welcome to Tokyo, the city where all the winners came to jerk each other off. If you've got money, you can buy anything your sick mind can dream up. If you don't, you just try not to get crushed beneath the wheels. Only the wicked rule here.<br /><br />Enter the Club, a secret society pandering to the ultra-rich and fulfilling their deepest desires… legal or otherwise. Sent to infiltrate the underground elite, Saiga, once a renowned war photographer now reduced to tabloid journalism, stumbles upon a depraved ceremony and discovers the ultimate beauty in Tokyo's darkest catacombs. With a tragic young girl named Kagura in tow, Saiga flees from his enemies and his own inner demons. A single kiss has ignited a chain of events that could force the entire ruling class to their knees.<br /><br />Smile for the camera… or perish in the glare of its lens.</p>",
+            "updated": 1555467149,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/18485"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/839911"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.2886795,
+        "show": {
+            "id": 7166,
+            "url": "https://www.tvmaze.com/shows/7166/speed-with-guy-martin",
+            "name": "Speed with Guy Martin",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [
+                "Action"
+            ],
+            "status": "Ended",
+            "runtime": 90,
+            "averageRuntime": 65,
+            "premiered": "2013-12-29",
+            "ended": "2016-10-09",
+            "officialSite": "http://www.channel4.com/programmes/speed-with-guy-martin",
+            "schedule": {
+                "time": "18:30",
+                "days": [
+                    "Saturday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 52,
+            "network": {
+                "id": 45,
+                "name": "Channel 4",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.channel4.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": 39454,
+                "thetvdb": 276415,
+                "imdb": "tt3460586"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66978.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66978.jpg"
+            },
+            "summary": "<p>Motorcycle racer and lorry mechanic Guy Martin enjoys attempting to push the boundaries of speed in search of a trying to get a buzz. He takes part in different four-speed based challenges, exploring the boundaries of physics and finding out about the science of speed.</p>",
+            "updated": 1556947484,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/7166"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/945136"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.27888745,
+        "show": {
+            "id": 27573,
+            "url": "https://www.tvmaze.com/shows/27573/speed-of-life",
+            "name": "Speed of Life",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [
+                "Nature"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2010-08-08",
+            "ended": "2010-08-08",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 32,
+            "network": {
+                "id": 66,
+                "name": "Discovery Channel",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.discovery.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 181511,
+                "imdb": "tt1718536"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/108/271898.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/108/271898.jpg"
+            },
+            "summary": "<p>Documentary series revealing nature's fascinating animal behaviors using cutting-edge modern technology. Many nature's events happen in ways much faster or slower, lighter or darker, larger or smaller than can be appreciated with the naked eye. Using cutting-edge modern technology to manipulate time, light and size, the series reveals the daily struggles of both predators and prey in their ongoing fight for survival in the American Southwest; the unique behaviors of some of the rainforest's elusive animals and insects of Central America; and the hidden lives of Africa's wildlife in ways invisible to the naked eye.</p>",
+            "updated": 1555467241,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/27573"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1154713"
+                }
+            }
+        }
+    }
+]
