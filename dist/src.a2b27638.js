@@ -194,14 +194,15 @@ function _getdata() {
     return _regeneratorRuntime().wrap(function _callee$(_context) {
       while (1) switch (_context.prev = _context.next) {
         case 0:
+          event.preventDefault();
           url = "https://api.tvmaze.com/search/shows?q=" + inputText.value;
-          _context.next = 3;
+          _context.next = 4;
           return fetch(url);
-        case 3:
+        case 4:
           dataPromise = _context.sent;
-          _context.next = 6;
+          _context.next = 7;
           return dataPromise.json();
-        case 6:
+        case 7:
           dataJSON = _context.sent;
           data0 = Object.values(dataJSON);
           showAllShows = document.getElementById("all-shows-data");
@@ -226,7 +227,7 @@ function _getdata() {
             showData.appendChild(showInfo);
             showAllShows.appendChild(showData);
           });
-        case 10:
+        case 11:
         case "end":
           return _context.stop();
       }

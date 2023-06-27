@@ -13,7 +13,7 @@ button.addEventListener("click", () => {
 
 
 async function getdata() {
-
+  event.preventDefault()
   let url = "https://api.tvmaze.com/search/shows?q="+ inputText.value
   let dataPromise = await fetch(url)
   let dataJSON = await dataPromise.json()
